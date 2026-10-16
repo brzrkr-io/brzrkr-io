@@ -10,6 +10,7 @@ Platform and DevOps engineer. I run things on Kubernetes, manage infrastructure 
 
 | | |
 |---|---|
+| **[groundwork](https://github.com/brzrkr-io/groundwork)** | A Go course that runs in the terminal: 400 exercises from Hello, Go to Kubernetes controllers and AWS automation. Fix the code, save, and the tests re-run and show what's still wrong. |
 | **[htpc-media-stack](https://github.com/brzrkr-io/htpc-media-stack)** | Home theater on a single-node k3s cluster, reconciled by Flux. Jellyfin with VA-API hardware transcoding, the *arr suite, VPN-isolated downloads, Cloudflare Tunnel ingress, nightly config backups. |
 | **[nixos](https://github.com/brzrkr-io/nixos)** | My desktop as code: NixOS flake, home-manager, Hyprland, live-reloading dotfiles and runtime theme switching. |
 
